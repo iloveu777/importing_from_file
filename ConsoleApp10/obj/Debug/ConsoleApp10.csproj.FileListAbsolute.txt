@@ -1,0 +1,8 @@
+C:\Users\zuxpl\source\repos\ConsoleApp10\ConsoleApp10\obj\Debug\ConsoleApp10.csproj.AssemblyReference.cache
+C:\Users\zuxpl\source\repos\ConsoleApp10\ConsoleApp10\obj\Debug\ConsoleApp10.csproj.SuggestedBindingRedirects.cache
+C:\Users\zuxpl\source\repos\ConsoleApp10\ConsoleApp10\obj\Debug\ConsoleApp10.csproj.CoreCompileInputs.cache
+C:\Users\zuxpl\source\repos\ConsoleApp10\ConsoleApp10\bin\Debug\ConsoleApp10.exe.config
+C:\Users\zuxpl\source\repos\ConsoleApp10\ConsoleApp10\bin\Debug\ConsoleApp10.exe
+C:\Users\zuxpl\source\repos\ConsoleApp10\ConsoleApp10\bin\Debug\ConsoleApp10.pdb
+C:\Users\zuxpl\source\repos\ConsoleApp10\ConsoleApp10\obj\Debug\ConsoleApp10.exe
+C:\Users\zuxpl\source\repos\ConsoleApp10\ConsoleApp10\obj\Debug\ConsoleApp10.pdb
